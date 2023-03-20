@@ -11,7 +11,7 @@ public class Main {
         int opcao;
 
         do {
-            System.out.println("-=[Cadastro de Livros]=-");
+            System.out.println("-==[Cadastro de Livros]==-");
             System.out.println("1 - cadastrar");
             System.out.println("2 - excluir");
             System.out.println("3 - alterar");
